@@ -1,0 +1,14 @@
+1. What is a directory, and what is its relationship to files?
+
+	A directory is a file structure to simply organize files, documents, and related items. 
+
+
+
+2. How are VCS useful?
+
+	Version control systems are useful in storing a working copy of what you have. Additionally VCS allow you/ teams to work together on projects.
+
+
+3. Do you have a favorite artistic medium? Why is it your favorite?
+
+	I'm not a artistic person persay in traditional arts and crafts. But I really do enjoy making mobile applications and websites look appealing if that is a valid artistic medium. Making websites and mobile apps look good in design is appealing to me because like other creative mediums there's so many ways to solve a single problem. It also is very challenging to design a great website, which makes it even more fun.
