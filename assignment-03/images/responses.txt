@@ -1,0 +1,16 @@
+What is the relationship between an IP address and the DNS?
+
+	The relationship between IP address and the DNS is that a IP Address is assigned to every computer to identify on a network. DNS is used to convert alphabetic references into a server's IP address (humans remember names better than numbers). For example IP 123.234.53.89 is going to be a lot harder to remember than if it was just Youtube.
+
+What is a cookie?
+
+	A web cookie is a small text file that contains information about the computer that using a website. They are meant to tailor a better experience to the user by keeping a users preferences and some information about them.
+
+What are the three essential parts of a URL?
+
+	The three essential parts of a URL are, 
+		1. The protocol, so either HTTP or HTTPS. 
+		2. The domain. E.g youtube.com. 
+		3. Paths to navigate the directories in the domain. E.g /ma/vang/profile-image.png
+
+	
