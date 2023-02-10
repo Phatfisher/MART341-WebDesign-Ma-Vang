@@ -5,4 +5,4 @@ Web browsers function by presenting web resources to you (user) by sending reque
 Web browsers that I use are Google Chrome, Safari, and Brave. 
 
 
-[Link to my screenshot file](images/Screenshot.png)
+[Link to my screenshot file](./images/Screenshot.png)
