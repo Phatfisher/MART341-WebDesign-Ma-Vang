@@ -5,4 +5,4 @@
 Forms are used a ton when I'm browsing the web to enter in information (logging in, signing up for accounts, searching, etc). Forms serve a great purpose for inputing information required. 
 
 
-[Link to my screenshot file](./images/screenshot.png)
+[Link to my screenshot file](./images/assignment-07.png)
