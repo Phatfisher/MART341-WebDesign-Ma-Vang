@@ -14,12 +14,20 @@ brown {
     color: #DFA67B;
 }
 
+menu-blue {
+    color: #95BDFF;
+}
+
+#home-h1{
+    color: menu-blue;
+}
+
 body {
     background-color: #FEFCF3;
 }
 
 nav {
-    background-color: #95BDFF;
+    background-color: menu-blue;
 }
 
 h1.center{
