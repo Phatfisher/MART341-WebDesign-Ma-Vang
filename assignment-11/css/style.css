@@ -1,0 +1,40 @@
+#blue {
+    color: #95BDFF;
+}
+
+#home-h1 {
+    color: #95BDFF;
+}
+
+body {
+    background-color: #FEFCF3;
+}
+
+nav {
+    background-color: #6096B4;
+}
+
+h1.center {
+    text-align: center;
+}
+
+h1:hover {
+    color: #FFA559;
+    font-family: font2;
+}
+
+input:active {
+    background-color: #C0DBEA;
+}
+
+textarea:active {
+    background-color: #C0DBEA;
+}
+
+a:link {
+    color: #6096B4;
+}
+
+a:visited {
+    color: #576CBC;
+}
